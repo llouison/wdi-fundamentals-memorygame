@@ -36,6 +36,11 @@ h1{
 h2{
     color: #ffd700;
 }
+
+.resetButton_invisible {
+  display: block;
+  margin: 0 auto;
+}
 .board{
     height: 50%;
     width: 50%;
